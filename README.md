@@ -9,4 +9,4 @@ I am learning OPC_UA here are some files and important links to it
 6. https://www.youtube.com/watch?v=nEpl_7q7otY&list=PLZpqH2EeqVW2fnpSmGlX7XrdcLMprpdpW
 7. https://www.youtube.com/watch?v=RZxLuvJBgpE&t=1999s&pp=ygUPbWVsdmluIGZyYW5jaXMg
 8. https://www.youtube.com/watch?v=Vb8-kwseksE&t=690s&pp=ygUUbWVsdmluIGZyYW5jaXMgT1BDVUE%3D
-9. 
+9. https://www.youtube.com/watch?v=tXs7TEd0K7k&list=PLKKh-hiRS07imj4yeM1YqynrAbbMukDmm
